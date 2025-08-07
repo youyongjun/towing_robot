@@ -8,17 +8,15 @@
 
 * this page describes all the components that are required to build the Towing Robot
 
-<img src="images/biped_front.jpg" width="400"> <br>*Biped Robot 6dof - front view
+<img src="images/towing_front.jpg" width="400"> <br>*Towing Robot 2WD - front view
 
-<img src="images/biped_2.jpg" width="400"> <br>*Biped Robot 6dof - back view
+<img src="images/towing_back.jpg" width="400"> <br>*Towing Robot 2WD - back view
 
-<img src="images/biped_1.jpg" width="400"><br>*Biped Robot 6dof - sitting posture*<br>
+<img src="images/towing_side.jpg" width="400"><br>*Towing Robot 2WD - side view*<br>
 
 ## Dimensions
 
-<img src="images/biped_dimensions_1.png" width="450"><br>*Biped Robot Dimensons*<br>
-
-<img src="images/biped_hip_height_1.png" width="450"><br>*Biped Robot Hip Height - at 45°, 60° and 90° lower leg angle*<br>
+<img src="images/biped_dimensions_1.png" width="450"><br>*Towing Robot Dimensons*<br>
 
 ## Gripper Modules
 <img src="images/leg_modules_1.jpg" width="450"><br>*Biped Leg Modules - right side and left side - 540g each*<br>
