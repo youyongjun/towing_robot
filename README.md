@@ -63,11 +63,15 @@ The preparation of the 3d printed parts is described below: [Preparing the 3D Pr
 More information about 3d printing can be found here: [Details 3D Printed Parts](../actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts)
 
 ---
-<img src="details/body_structure_front.png" width="300"> <br>
+<img src="images/towing_parts_1.png" width="300"> <br>
+* [Body Structure Mount - STL file](stl_files/body_structure_b.STL)<br>
+* weight: 100g
+---
+<img src="images/towing_parts_2.png" width="300"> <br>
 * [Body Structure Front - STL file](stl_files/body_structure_f.STL)<br>
 * weight: 175g
 ---
-<img src="details/body_structure_back_rev_a.png" width="300"> <br>
+<img src="images/towing_parts_3.png" width="300"> <br>
 * [Body Structure Back - STL file](stl_files/body_structure_b.STL)<br>
 * weight: 180g
 ---
