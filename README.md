@@ -68,7 +68,7 @@ More information about 3d printing can be found here: [Details 3D Printed Parts]
 * weight: 175g
 ---
 <img src="details/body_structure_back_rev_a.png" width="300"> <br>
-* [Body Structure Back Rev A- STL file](stl_files/body_structure_b.STL)<br>
+* [Body Structure Back - STL file](stl_files/body_structure_b.STL)<br>
 * weight: 180g
 ---
 
