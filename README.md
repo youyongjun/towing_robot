@@ -1,7 +1,7 @@
 
 # towing_robot v2
 
-<img src="images/biped_3.jpg" width="400"> <br>*towing_robot 2wd  - weight: 1,34kg
+<img src="images/biped_3.jpg" width="400"> <br>*towing_robot 2wd  - weight: 10.34kg
 <img src="images/towing_cad_1.png" width="500"> <br>*Towing Robot CAD model*<br>
 
 ## Description
