@@ -19,7 +19,7 @@
 <img src="images/biped_dimensions_1.png" width="450"><br>*Towing Robot Dimensons*<br>
 
 ## Gripper Modules
-<img src="images/leg_modules_1.jpg" width="450"><br>*Biped Leg Modules - right side and left side - 540g each*<br>
+<img src="images/leg_modules_1.jpg" width="450"><br>*Gripper Modules - up down and front back*<br>
 
 * the legs of the Biped Robot are described here: [Biped Leg 3dof v1 Documentation](../biped_leg_3dof_v1/README.md#biped-leg-3dof-v1)
 * all the internal components of the actuator modules are identical
