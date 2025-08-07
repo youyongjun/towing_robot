@@ -52,14 +52,6 @@
 
 * Custom electronics board: [Micro Driver Board Documentation](../../electronics/micro_driver_electronics/README.md#micro-driver-electronics)
 
-### Inertia Measurement Unit
-<img src="images/imu_3dm_cx5_25_2.jpg" width="300"><br>
-
-* Lord Microstrain 3DM-CX5-25
-* Weight: 13g
-* [Lord Microstrain webpage](https://www.microstrain.com/inertial/3dm-cx5-25)
-* ordering information [below](#bill-of-materials---biped-robot-6dof)
-
 ## 3D Printed Parts
 
 <img src="images/biped_body_structure_parts_1.jpg" width="400"><br>*Parts Body Structure - weight: 87g*
