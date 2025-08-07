@@ -65,11 +65,11 @@ More information about 3d printing can be found here: [Details 3D Printed Parts]
 ---
 <img src="details/body_structure_front.png" width="300"> <br>
 * [Body Structure Front - STL file](stl_files/body_structure_f.STL)<br>
-* weight: 19g
+* weight: 175g
 ---
 <img src="details/body_structure_back_rev_a.png" width="300"> <br>
 * [Body Structure Back Rev A- STL file](stl_files/body_structure_b.STL)<br>
-* weight: 14g
+* weight: 180g
 ---
 
 ## Bill of Materials - Biped Robot 6dof
