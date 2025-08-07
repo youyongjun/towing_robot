@@ -83,52 +83,6 @@ More information about 3d printing can be found here: [Details 3D Printed Parts]
 * [Body Structure Back Rev A- STL file](stl_files/body_structure_biped_back_rev_a.STL)<br>
 * weight: 14g
 ---
-<img src="details/body_structure_right_side.png" width="300"> <br>
-* [Body Structure Right Side - STL file](stl_files/body_structure_biped_right_side.STL)<br>
-* weight: 9g
----
-<img src="details/body_structure_left_side.png" width="300"> <br>
-* [Body Structure Left Side - STL file](stl_files/body_structure_biped_left_side.STL)<br>
-* weight: 9g
----
-<img src="details/body_structure_bottom.png" width="300"> <br>
-* [Body Structure Bottom - STL file](stl_files/body_structure_biped_bottom.STL)<br>
-* weight: 17g
----
-<img src="details/body_structure_top_versions_1.png" width="400"><br>
-* there are 4 different versions of the Body Structure Top element available
-* minimal version, with IMU, with Vicon markers and with IMU and Vicon markers
-
----
-<img src="details/body_structure_top.png" width="300"> <br>
-* [Body Structure Top - STL file](stl_files/body_structure_biped_top.STL)<br>
-* weight: 14g
----
-<img src="details/body_structure_top_vicon.png" width="300"> <br>
-* [Body Structure Top Vicon - STL file](stl_files/body_structure_biped_top_vicon.STL)<br>
-* weight: 15g
----
-<img src="details/body_structure_top_imu.png" width="300"> <br>
-* [Body Structure Top IMU - STL file](stl_files/body_structure_biped_top_imu.STL)<br>
-* added IMU attachment to the top structure
-* weight: 15g
----
-<img src="details/body_structure_top_imu_vicon.png" width="300"> <br>
-* [Body Structure Top IMU Vicon - STL file](stl_files/body_structure_biped_top_imu_vicon.STL)<br>
-* added IMU attachment to the top structure
-* weight: 16g
----
-<img src="details/micro_driver_stack_spacer.png" width="150"> <br>
-* [Micro Driver Stack Spacer - STL file](stl_files/micro_driver_stack_spacer.STL)<br>
-* weight: 0,2g
----
-<img src="details/stand_attachment.png" width="200"> <br>
-* [Stand Attachment - STL file](stl_files/stand_attachment.STL)<br>
-* weight: 23g
----
-<img src="details/master_board_protection.png" width="250"> <br>
-* [Master Board Protection - STL file](stl_files/body_structure_master_board_protection.STL)<br>
----
 
 ## Off-the-shelf Components
 ### Hip AA Bearing
