@@ -84,42 +84,6 @@ More information about 3d printing can be found here: [Details 3D Printed Parts]
 * weight: 14g
 ---
 
-## Off-the-shelf Components
-### Hip AA Bearing
-<img src="images/bearing_ET25202ZVA.jpg" width="300"> <br>
-
-* Dimensions: 25mm x 20mm x 4mm
-* Stainless steel
-* Weight: 3,4g each
-* Ordering information [below](#bill-of-materials---biped-robot-6dof)
-
-### Fasteners
-<img src="images/fasteners_biped_1.jpg" width="300"><br>
-* M2, M2,5 and M3 fasteners for the biped robot
-* we use stainless steel fasteners
-* Ordering information [below](#bill-of-materials---biped-robot-6dof)
-
-<img src="images/fasteners_imu.jpg" width="300"><br>
-* fasteners for the IMU
-* M2,5x16 Slotted Screw - Polyamide Plastic
-* Weight: 0,1g each
-* Ordering information [below](#bill-of-materials---biped-robot-6dof)
-
-### Helicoil Thread Inserts
-<img src="images/helicoils_biped_1.jpg" width="300"><br>
-* we use Helicoil inserts to reinforce the threads of the 3d printed parts
-* you need the [Helicoil Tools](../actuator_module_v1/details/details_tools.md#helicoil-tools) to install the threaded inserts
-* Helicoil ordering information [below](#bill-of-materials---biped-robot-6dof)
-
-### Vicon Markers
-<img src="images/vicon_marker.jpg" width="300"> <br>*Reflective markers for motion capture system - weight: 1g each*<br>
-
-* 9.5mm Vicon Markers on the base
-* M4 x 10 set screws for a attachment
-* Weight: 1g each
-* Optional - only required for motion capture system
-* Ordering information [below](#bill-of-materials---biped-robot-6dof)
-
 ## Bill of Materials - Biped Robot 6dof
 <img src="images/biped_cad_3.png" width="250"><br>
 
