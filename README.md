@@ -22,9 +22,7 @@
 <img src="images/leg_modules_1.jpg" width="450"><br>*Gripper Modules - up down and front back*<br>
 
 * the legs of the Biped Robot are described here: [Biped Leg 3dof v1 Documentation](../biped_leg_3dof_v1/README.md#biped-leg-3dof-v1)
-* all the internal components of the actuator modules are identical
 * the internal components of the actuator modules are described here:
-  * [Actuator Module Core v1](../actuator_module_v1/README.md#brushless-actuator-module-core-v1)
   * [Actuator Module Core v1.1](../actuator_module_v1/actuator_module_v1.1.md#brushless-actuator-module-core-v11)
 * the preparation of the actuator modules is described here:<br>
   * [Step by Step Instructions](../#step-by-step-instructions)
