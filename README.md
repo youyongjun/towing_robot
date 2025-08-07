@@ -1,7 +1,7 @@
 
 # towing_robot v1
 
-<img src="images/biped_3.jpg" width="400"> <br>*Biped Robot 6dof  - weight: 1,34kg <br>For this picture the robot was held by a string.*<br><br>
+<img src="images/biped_3.jpg" width="400"> <br>*towing_robot 2wd  - weight: 1,34kg <br>For this picture the robot was held by a string.*<br><br>
 
 <img src="images/biped_cad_5.png" width="500"> <br>*Biped Robot CAD model*<br>
 
