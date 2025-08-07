@@ -1,24 +1,16 @@
 
 # towing_robot v1
 
-<img src="images/biped_3.jpg" width="400"> <br>*towing_robot 2wd  - weight: 1,34kg <br>For this picture the robot was held by a string.*<br><br>
-
-<img src="images/biped_cad_5.png" width="500"> <br>*Biped Robot CAD model*<br>
+<img src="images/biped_3.jpg" width="400"> <br>*towing_robot 2wd  - weight: 1,34kg
+<img src="images/biped_cad_5.png" width="500"> <br>*Towing Robot CAD model*<br>
 
 ## Description
 
-* this page describes all the components that are required to build the Biped Robot
-* each leg has 3 active degrees of freedom and a passive ankle joint
-* the legs of the Biped Robot are described here: [Biped Leg 3dof v1 Documentation](../biped_leg_3dof_v1/README.md#biped-leg-3dof-v1)
-* compared to the quadruped robots the upper and lower leg length  was increased by 25% - from 160mm to 200mm
-* since the biped has no leg rotation degree of freedom the yaw angle of the robot cannot be controlled
-* the line contact of the feet help to stabilize the yaw orientation of the robot
-* the onboard IMU and the Vicon Markers on the body are used for base estimation
-* the interface wire provides power and ethernet communication
+* this page describes all the components that are required to build the Towing Robot
 
-<img src="images/biped_front.jpg" width="400"> <br>*Biped Robot 6dof - front view<br>For this picture the robot was held by a string.*<br>
+<img src="images/biped_front.jpg" width="400"> <br>*Biped Robot 6dof - front view
 
-<img src="images/biped_2.jpg" width="400"> <br>*Biped Robot 6dof - back view<br>For this picture the robot was held by a string.*<br>
+<img src="images/biped_2.jpg" width="400"> <br>*Biped Robot 6dof - back view
 
 <img src="images/biped_1.jpg" width="400"><br>*Biped Robot 6dof - sitting posture*<br>
 
