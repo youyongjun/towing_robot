@@ -50,7 +50,7 @@
 
 ## 3D Printed Parts
 
-<img src="images/biped_body_structure_parts_1.jpg" width="400"><br>*Parts Body Structure - weight: 87g*
+<img src="images/biped_body_structure_parts_1.jpg" width="400"><br>*Parts Body Structure - weight: 355g*
 
 <img src="images/printing_direction.png" width="400"> <br>
 
