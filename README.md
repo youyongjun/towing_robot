@@ -20,7 +20,7 @@
 
 <img src="images/biped_hip_height_1.png" width="450"><br>*Biped Robot Hip Height - at 45°, 60° and 90° lower leg angle*<br>
 
-## Leg Modules
+## Gripper Modules
 <img src="images/leg_modules_1.jpg" width="450"><br>*Biped Leg Modules - right side and left side - 540g each*<br>
 
 * the legs of the Biped Robot are described here: [Biped Leg 3dof v1 Documentation](../biped_leg_3dof_v1/README.md#biped-leg-3dof-v1)
